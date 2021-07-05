@@ -1,1 +1,1 @@
-# rn-doctor
+# react-native doctor app
