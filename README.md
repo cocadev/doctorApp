@@ -1,1 +1,1 @@
-# react-native doctor app with django
+# react-native doctor app with django 2
